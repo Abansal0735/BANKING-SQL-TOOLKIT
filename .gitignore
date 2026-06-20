@@ -1,0 +1,11 @@
+# Ignore generated database and output files
+banking.db
+output/
+*.db
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
