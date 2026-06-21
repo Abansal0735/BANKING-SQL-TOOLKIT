@@ -80,6 +80,6 @@ included with purchase.
 
 ## About
 
-Built by [Your Name] — I work in banking software and enjoy writing
+Built by Abhishek Bansal — I work in banking software and enjoy writing
 about practical SQL patterns from the industry. Feel free to connect
-on [LinkedIn link] or reach out at [your email].
+me at bansal0735@gmail.com.
