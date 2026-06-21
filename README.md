@@ -56,15 +56,21 @@ database.
 
 ## The Full Toolkit
 
-This repo includes 3 of 8 total queries. The complete toolkit includes:
+This repo includes 3 of 11 total queries. The complete toolkit includes:
 
+**Foundational queries:**
 - Loan delinquency bucketing (DPD aging) — core risk reporting metric
 - Transaction velocity monitoring — fraud/risk account flagging
 - Loan default rate analysis by region/product
 - Customer lifetime value calculation
 - Branch performance trending with month-over-month growth
 
-👉 **Get the full 8-query toolkit here: [your Gumroad link]**
+**Advanced queries:**
+- Customer cohort retention analysis (multi-CTE, relative date math)
+- Composite multi-factor customer risk scoring
+- Statistical anomaly detection using z-scores (pure SQL, no external stats library)
+
+👉 **Get the full 11-query toolkit here: [your Gumroad link]**
 
 ## A Note on the Data
 
@@ -82,4 +88,4 @@ included with purchase.
 
 Built by Abhishek Bansal — I work in banking software and enjoy writing
 about practical SQL patterns from the industry. Feel free to connect
-me at bansal0735@gmail.com.
+at bansal0735@gmail.com.
