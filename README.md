@@ -166,7 +166,7 @@ README for the full list.
 
 ## 🙋 About This Project
 
-Built by [Your Name] as a hands-on project to practice SQL and
+Built by Abhishek Bansal as a hands-on project to practice SQL and
 full-stack development using real-world banking data patterns. I work
 in banking software professionally, which inspired the realistic feature
 set, but all data, logic, and code here is original and entirely
